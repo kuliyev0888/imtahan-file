@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-image: url("https://www.bmw-m.com/content/dam/bmw/marketBMW_M/common/topics/magazine-article-pool/2019/bmw-m-wallpaper/bmw-m3-limousine-stage-teaser.jpg");
+}
+
+ul{
+
+    list-style: none;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 1300px;
+    margin-top: -40px;
+    font-weight: bold;
+}
+li{
+    padding: 10px;
+}
+
+p{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 1px;
+    
+}
